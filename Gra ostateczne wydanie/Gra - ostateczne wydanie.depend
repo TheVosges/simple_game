@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1513804265 source:c:\users\arek\desktop\projekty\gra - ostateczne wydanie\main.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<fstream>
+	<string>
+
+1513805337 source:c:\users\arek\desktop\projekty\playmusic\main.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<fstream>
+	<string>
+	"MMSystem.h"
+
+1513894398 source:c:\users\arek\desktop\projekty\gra ostateczne wydanie\main.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	<stdlib.h>
+	<time.h>
+	<Windows.h>
+	<fstream>
+	<string>
+	<MMSystem.h>
+
